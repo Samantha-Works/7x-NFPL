@@ -1,0 +1,10 @@
+{
+  "version": true,
+  "no_setup_tab": true,
+  "inline_settings": true,
+  "player_history": true,
+  "tap_to_add": true,
+  "per_game_partner": true,
+  "tournament_auto_dates": true,
+  "game_centered": true
+}
